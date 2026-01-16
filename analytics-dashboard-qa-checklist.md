@@ -2,6 +2,17 @@
 
 A practical checklist to validate analytics dashboards before sharing with stakeholders or releasing to production.
 
+## Purpose
+
+This checklist helps ensure analytics dashboards are accurate, reliable, performant, and ready for business decision-making.  
+It is designed to be tool-agnostic and can be used during UAT, pre-production validation, or ongoing dashboard audits.
+
+## When to Use This Checklist
+- Before sharing a dashboard with stakeholders
+- During UAT or pre-production testing
+- After major data model or logic changes
+- When investigating data quality issues
+
 ---
 
 ## 1. Data Source Validation
@@ -61,6 +72,15 @@ A practical checklist to validate analytics dashboards before sharing with stake
 - [ ] Historical data does not change unexpectedly
 
 ---
+
+### Notes
+- This checklist is based on common analytics QA failures observed in real-world implementations.
+- Teams are encouraged to adapt or extend it based on organizational standards.
+  
+### Version
+v1.0
+
+
 
 ## 8. Final Review & Sign-Off
 - [ ] Stakeholder review completed
