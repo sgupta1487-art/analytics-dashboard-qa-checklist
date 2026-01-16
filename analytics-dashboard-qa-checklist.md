@@ -73,17 +73,17 @@ It is designed to be tool-agnostic and can be used during UAT, pre-production va
 
 ---
 
+## 8. Final Review & Sign-Off
+- [ ] Stakeholder review completed
+- [ ] Known limitations are documented
+- [ ] QA sign-off completed
+- [ ] Deployment readiness confirmed
+
+---
+
 ### Notes
 - This checklist is based on common analytics QA failures observed in real-world implementations.
 - Teams are encouraged to adapt or extend it based on organizational standards.
   
 ### Version
 v1.0
-
-
-
-## 8. Final Review & Sign-Off
-- [ ] Stakeholder review completed
-- [ ] Known limitations are documented
-- [ ] QA sign-off completed
-- [ ] Deployment readiness confirmed
